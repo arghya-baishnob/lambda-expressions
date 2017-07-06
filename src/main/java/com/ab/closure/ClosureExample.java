@@ -6,7 +6,7 @@ public class ClosureExample {
 
         /**
          * This lambda is passing to p.process(i),
-         * but there the value of x is coming
+         * but there  the value of x is coming
          * from closure which is took from the scope
          * of lambda expression & it is final.
          */
